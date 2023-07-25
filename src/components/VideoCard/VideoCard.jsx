@@ -9,7 +9,7 @@ const VideoCard = () => {
       controls
     >
       <source
-        src="./assets/videos/16-scikit-learn-wtf-is-a-closure-BkkygOyaH.mp4"
+        src="assets/videos/16-scikit-learn-wtf-is-a-closure-BkkygOyaH.mp4"
         type="video/mp4"
       />
     </video>
